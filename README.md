@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+### 기술스택
+* Android App
+  - Kotlin, JetPack Compose, Navigation, Hilt, Retrofit2, Coroutine, Flow, LiveData, Coil, Glide, WebView Hybrid App
+
+* 사용 아키텍쳐
+  - MVC, MVP, MVVM, Android Multi-Module project
+
+### 최근에 공부 중...
+* flutter
+  - get_it, riverpod
+    
+* MVI
+
 <!--
 **JaehunJ/JaehunJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
