@@ -1,5 +1,5 @@
-## Hi there 👋
-<br></br>
+# JaehunJ profile👋
+
 ### ⚡기술스택
 * Android App
   - Kotlin, JetPack Compose, Navigation, Hilt, Retrofit2, Coroutine, Flow, LiveData, Coil, Glide, WebView Hybrid App
