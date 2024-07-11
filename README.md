@@ -4,6 +4,9 @@
 * Android App
   - Kotlin, JetPack Compose, Navigation, Hilt, Retrofit2, Coroutine, Flow, LiveData, Coil, Glide, WebView Hybrid App
 
+* etc.
+  - C#, WPF, Unity3D
+
 * 사용 아키텍쳐
   - MVC, MVP, MVVM, Android Multi-Module project
 <br></br>
